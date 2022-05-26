@@ -1,0 +1,144 @@
+.nav-link{
+    color: white;
+    font-size: xx-small;
+}
+.navbar-nav{
+margin-left: 450px;
+    margin-right: unset;
+    background-image: url("../../../images/mou2.jpg");
+    background-size: 100%;
+}
+.navbar-expand-sm{
+    background-image: url("../../../images/mou2.jpg");
+    background-size: 100%;
+}
+.navbar-brand{
+    color: white;
+}
+.first{
+    font-size: small;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.btn{
+    border-radius: 40px;
+    font-size: small;
+}
+.btn-warning{
+    color: white;
+    margin-left: 400px;
+}
+.card-img-top{
+    height: 7vw;
+    width: 25%;
+    margin-left: 80px;
+    margin-top: 10px;
+
+}
+.card-body{
+    height: 10vw;
+    width: 100%;
+}
+.card{
+    height:25vw;
+    width: 25%;
+    border: unset;
+}
+.card-title{
+    font-size: small;
+    text-align: center;
+
+}
+.card-text {
+    font-size: x-small;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.section1{
+   background-image: url("../../../images/mou2.jpg");
+    background-size: 100%;
+}
+.p1{
+    color: white;
+}
+.h3{
+    color: white;
+}
+.h5{
+    color: white;
+}
+.btn-primary{
+    background-image: url("../../../images/img_5.png");
+    margin-left: 400px;
+}
+.g{
+    background-color: deeppink;
+    border-radius: 5px;
+    width:80px;
+    font-size: small;
+
+}
+.btn-outline-danger{
+    border-radius: 5px;
+}
+.card-img-top2{
+    height: 10vw;
+    width: 100%;
+}
+.card2{
+    height:15vw;
+    margin-left:50px;
+}
+.card22{
+    height:15vw;
+    margin-right:50px;
+}
+.card21{
+    height:15vw;
+    margin-left:100px;
+}
+.a{
+    font-size: small;
+}
+.r{
+    font-size: xx-small;
+}
+.footer_section{
+    background-color: white;
+    margin-bottom: unset;
+}
+.jumbotron-fluid{
+    background-color: rgba(242,150,98,0.91);
+}
+.ttt{
+    background-image: url("../../../images/img_10.png");
+    background-size: 100%;
+}
+
+.v{
+    margin-right: 100px;
+    margin-top: 10px;
+}
+.k{
+    margin-left: 110px;
+    margin-top: 20px;
+}
+.f{
+   height: 4vw;
+    margin-left: 20px;
+}
+.i{
+    height: 4vw;
+    margin-right: 20px;
+}
+.bg-secondary{
+    width: 300px;
+    height: 5vw;
+}
+.btn-login{
+    width: 300px;
+    height: 5vw;
+    background-image: url("../../../images/img_10.png");
+}
+

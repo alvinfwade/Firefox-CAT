@@ -1,0 +1,75 @@
+.g{
+    background-color: deeppink;
+    border-radius: 5px;
+    width:80px;
+    font-size: small;
+    border-collapse: ;
+}
+.btn-outline-danger{
+    border-radius: 5px;
+}
+.card-img-top2{
+    height: 10vw;
+    width: 100%;
+}
+.card2{
+    height:15vw;
+    margin-left:50px;
+    width: 40%;
+
+}
+.card22{
+    height:15vw;
+    margin-right:50px;
+    width: 40px;
+
+}
+.card21{
+    height:15vw;
+    margin-left:100px;
+    width: 40px;
+
+}
+.a{
+    font-size: small;
+}
+.r{
+    font-size: xx-small;
+}
+.footer_section{
+    background-color: white;
+    margin-bottom: unset;
+}
+.jumbo{
+    height: 20vh;
+    background-color: rgba(242,150,98,0.91);
+}
+.navbar-nav{
+    background-color: white;
+    margin-left: 700px;
+    height: 2vw;
+}
+.nav-link{
+    font-size: x-small;
+}
+.navbar-brand{
+    color: black;
+    font-size: x-small;
+}
+
+.container{
+    margin-top: 50px;
+}
+.jumbotron{
+background-image: url("../../../images/img_9.png");
+}
+.card-title{
+    font-size: small;
+}
+.card-text{
+    font-size: small;
+}
+.ppp{
+    font-size: x-small;
+}
+
